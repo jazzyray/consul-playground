@@ -232,6 +232,7 @@ Response
           "ServicePort": 9110
   }
 ]
+```
 
 Use Consul DNS for the services registered in Consol (DNS loadbalancing)
 =
